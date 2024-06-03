@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tyler Audino!
-- 👨🏻‍💻 I'm an incoming Application Development Intern at Florida Blue!
+- 👨🏻‍💻 I'm an Application Development Intern at Florida Blue!
 - 👀 I’m a Junior Computer Science student at the University of Florida.
 - 😝 I'm interested in data visualization, software engineering, AI, and human-computer-interaction.
 - 🌱 I’m currently learning Javascript, React, and Flask
